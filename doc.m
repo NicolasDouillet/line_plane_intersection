@@ -3,7 +3,7 @@
 % Function to compute the intersection point
 % between the (N,u) line and the (M,n) plane of the 3D space.
 %
-% Author & support : nicolas.douillet (at) free.fr, 2019-2020.
+% Author : nicolas.douillet9 (at) gmail.com, 2019-2024.
 %
 %% Syntax
 %
